@@ -1,0 +1,2 @@
+# FreePluginTemplate
+Template de plugin. 
